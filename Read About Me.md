@@ -39,6 +39,8 @@ A Power BI and Power Automate pipeline replacing a legacy Access and Excel macro
 
 ---
 
+## Contact 
+[LinkedIn](https://linkedin.com/in/anybanh) 
 
 - Email: anybanh@gmail.com
 - LinkedIn: [linkedin.com/in/anybanh](https://linkedin.com/in/anybanh)
