@@ -24,4 +24,4 @@ Global Age Excel data feeds into a DirectQuery Power BI composite model, with Po
 
 The automated pipeline replaces the legacy Access/Excel macro process entirely, removing the manual steps and the risk of a missed or incorrectly run macro.
 
-*[Add specific impact metrics here if available, e.g. hours saved per week, error rate before and after, or how often the old process required manual fixes.]*
+Saved the team from typing manual zoning definitions which equates to a 15 hour weekly time savings. 
