@@ -17,7 +17,7 @@ The core report (CP01) pulls inbound and outbound activity for each pick face lo
 That data feeds a three-step interactive tool built in Power BI:
 1. **Upload Unslots Needed** — surfaces the current list of locations flagged for unslotting
 2. **Research Pick Activity** — lets a user filter by zone, location status, pickable/useable flags, and days since last pick, to review and validate which locations actually belong on the unslot list
-3. **Unslot Work Queue** — turns the validated list into a prioritized, actionable queue for the team executing the unslots
+3. **Unslot Work Queue** — grants visibility to team to track status of unslotted items
 
 ## Skills
 
@@ -28,4 +28,4 @@ That data feeds a three-step interactive tool built in Power BI:
 
 The tool gives operations a clear, repeatable, self-service way to identify underperforming pick face locations and turn that finding directly into a prioritized work queue, replacing manual, ad hoc activity checks with a standing process the team can run on their own.
 
-*[Add specific impact metrics here if available, e.g. number of locations cycled, productivity lift, or time saved versus the prior manual process.]*
+Recovered 62 locations that were inactive and not in use which resulted in 0 shorts for outbound orders. This new self-serve dashboard also saved the team 10 minutes of research time per hour.
