@@ -2,7 +2,8 @@
 
 A SQL and Power BI reporting tool built to identify low-activity pick face locations so high-demand inventory could be cycled in.
 
-![Pick Face Productivity Dashboard](./images/pickface-dashboard-screenshot.png)
+![Pick Face Productivity Dashboard](./pickface-dashboard-screenshot.png)
+
 *Location IDs and item numbers have been redacted, as this dashboard runs on proprietary company data.*
 
 ## The Business Problem
