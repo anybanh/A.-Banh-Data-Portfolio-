@@ -18,14 +18,14 @@ I'm targeting retail or sales analyst roles where I can apply these skills to im
 
 ## Projects
 
-### [Store Performance, Forecasting & Labor Optimization](./projects/retail-store-analytics)
+### [Store Performance, Forecasting & Labor Optimization](./Retail%20Analysis%20Project.md)
 A retail analytics case study diagnosing store underperformance, building a demand forecast, and quantifying a labor scheduling gap in dollars. Covers SQL (BigQuery) for data cleaning and analysis, and Power BI for the dashboard layer.
 
 **Skills:** BigQuery, SQL window functions, Power BI, DAX, forecast validation (WAPE, bias)
 
 ---
 
-### [Pick Face Productivity Dashboard](./projects/pickface-productivity-dashboard)
+### [Pick Face Productivity Dashboard](./Inventory%20Storage%20Productivity%20Project.md)
 A SQL and Power BI report identifying low-activity pick face locations in the warehouse so high-demand inventory can be cycled in.
 
 **Skills:** SQL (CTEs, UNION ALL), Power BI
