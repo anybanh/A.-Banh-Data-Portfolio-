@@ -3,7 +3,7 @@
 
 ---
 
-![Dashboard Screenshot](./images/retail-dashboard-screenshot.png)
+![Dashboard Screenshot](./retail-dashboard-screenshot.png)
 
 ## Executive Summary
 
