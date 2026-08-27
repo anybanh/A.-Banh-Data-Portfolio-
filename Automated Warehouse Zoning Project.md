@@ -2,7 +2,7 @@
 
 A Power BI and Power Automate pipeline built to eliminate a manual, macro-driven zoning process.
 
-![Zoning Dashboard](./images/zoning-dashboard-screenshot.png)
+![Zoning Dashboard](./zoning-dashboard-screenshot.png)
 *Item-level detail (product names, subsectors, categories) has been redacted, as this dashboard runs on proprietary company data.*
 
 ## The Business Problem
